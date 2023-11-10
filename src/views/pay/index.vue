@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div>我是pay</div>
 </template>
 <script>
 export default {
